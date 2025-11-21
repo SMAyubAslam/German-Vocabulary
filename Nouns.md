@@ -1,5 +1,8 @@
-### Nouns with articals and English meaning               
-das Gegenteil (opposite)              
-der Essel (donkey)                    
-der Fuchs (fox)
-das Lachen (laughter)
+### Nouns with articles and English meaning
+
+| German Noun | English Meaning |
+|-------------|-----------------|
+| das Gegenteil | opposite |
+| der Esel | donkey |
+| der Fuchs | fox |
+| das Lachen | laughter |
